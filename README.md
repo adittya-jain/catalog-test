@@ -33,7 +33,8 @@ Step 3: Install Dependencies
 ```bash 
 npm install
 ```
-        Note: Make sure Node.js is installed before running this command.
+        
+Note: Make sure Node.js is installed before running this command.
 
 Step 4: Run the Project
         To start the program, run the following command:
@@ -48,7 +49,7 @@ Step 5: Provide the File Path
 ```bash
 Please enter the file path: testcase1.json
 ```
-        You can also create your own test case in a JSON file and provide the path to that file.
+You can also create your own test case in a JSON file and provide the path to that file.
 
 Output
         The program will display the secret key found in the JSON file.
