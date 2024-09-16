@@ -45,9 +45,9 @@ node index.js
     
 Step 5: Provide the File Path
         After running the command, the program will ask for the path to the JSON file containing test cases. Two sample test cases (testcase1.json and testcase2.json) are provided. You can enter one of these filenames when prompted:
-
+Please enter the file path:
 ```bash
-Please enter the file path: testcase1.json
+testcase1.json
 ```
 You can also create your own test case in a JSON file and provide the path to that file.
 
